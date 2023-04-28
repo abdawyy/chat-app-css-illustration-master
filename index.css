@@ -330,4 +330,14 @@ p .s{
         font-size:small;
         
     }
+    .row-one,
+    .row-two,
+    .row-three,
+    
+    .row-seven,
+    .row-eight,
+    .row-nine,
+    .row-ten{
+        margin-left:  5px;
+    }
 }
