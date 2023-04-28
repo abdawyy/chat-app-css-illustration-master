@@ -323,4 +323,11 @@ p .s{
     .article p{
         width: 80%;
     }
+     .row-nine p span{
+        font-size:small;
+    }
+    .row-eight p span{
+        font-size:small;
+        
+    }
 }
