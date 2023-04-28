@@ -313,8 +313,12 @@ p .s{
         position: absolute;
         top: 25px;
         left: 55px;
+        height:575px;
       
     }
+    .screen{
+        height:545px;
+        ]
     .article{
         top: 580px;
         left: -140px;
